@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="Let's build something exceptional together">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0F1C33"/><stop offset="1" stop-color="#222047"/></linearGradient><linearGradient id="h" x1="0" x2="1"><stop stop-color="#5CDDE7"/><stop offset="1" stop-color="#B699FF"/></linearGradient></defs>
+<rect width="1200" height="160" rx="17" fill="url(#g)" stroke="#516A92"/>
+<circle cx="1130" cy="-40" r="180" fill="#866BE1" opacity=".13"/>
+<text x="58" y="76" fill="#F3F6FF" font-size="37" font-weight="800" font-family="Arial, sans-serif">Have an idea worth building?</text>
+<text x="60" y="111" fill="#A4B5D0" font-size="20" font-family="Arial, sans-serif">Let's make it fast, beautiful and ready for the real world.</text>
+<rect x="940" y="53" width="197" height="53" rx="26" fill="url(#h)"/>
+<text x="1038" y="86" text-anchor="middle" fill="#142036" font-weight="bold" font-size="18" font-family="Arial, sans-serif">LET'S CONNECT</text>
+<path d="M1112 73 H1124 V85 M1124 73 L1108 89" stroke="#142036" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
