@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Project workflow: discover, plan, build, refine, optimize, deliver">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0F182C"/><stop offset="1" stop-color="#171F38"/></linearGradient></defs>
+<rect width="1200" height="230" rx="17" fill="url(#g)" stroke="#485C7F"/><rect x="29" y="37" width="180" height="154" rx="13" fill="#192540" stroke="#3D506F"/>
+<circle cx="63" cy="70" r="17" fill="#72E0E7" opacity=".18"/>
+<text x="63" y="76" font-family="Arial, sans-serif" text-anchor="middle" font-size="12" font-weight="800" fill="#72E0E7">01</text>
+<text x="47" y="113" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#F0F5FF">DISCOVER</text>
+<text x="47" y="143" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">Goals, audience</text>
+<text x="47" y="163" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">&amp; constraints</text>
+<rect x="223" y="37" width="180" height="154" rx="13" fill="#192540" stroke="#3D506F"/>
+<circle cx="257" cy="70" r="17" fill="#8AABFF" opacity=".18"/>
+<text x="257" y="76" font-family="Arial, sans-serif" text-anchor="middle" font-size="12" font-weight="800" fill="#8AABFF">02</text>
+<text x="241" y="113" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#F0F5FF">PLAN</text>
+<text x="241" y="143" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">Structure, scope</text>
+<text x="241" y="163" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">&amp; components</text>
+<rect x="417" y="37" width="180" height="154" rx="13" fill="#192540" stroke="#3D506F"/>
+<circle cx="451" cy="70" r="17" fill="#B498FE" opacity=".18"/>
+<text x="451" y="76" font-family="Arial, sans-serif" text-anchor="middle" font-size="12" font-weight="800" fill="#B498FE">03</text>
+<text x="435" y="113" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#F0F5FF">BUILD</text>
+<text x="435" y="143" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">Clean frontend</text>
+<text x="435" y="163" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">&amp; integrations</text>
+<rect x="611" y="37" width="180" height="154" rx="13" fill="#192540" stroke="#3D506F"/>
+<circle cx="645" cy="70" r="17" fill="#8EE1BB" opacity=".18"/>
+<text x="645" y="76" font-family="Arial, sans-serif" text-anchor="middle" font-size="12" font-weight="800" fill="#8EE1BB">04</text>
+<text x="629" y="113" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#F0F5FF">REFINE</text>
+<text x="629" y="143" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">Responsive QA</text>
+<text x="629" y="163" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">&amp; accessibility</text>
+<rect x="805" y="37" width="180" height="154" rx="13" fill="#192540" stroke="#3D506F"/>
+<circle cx="839" cy="70" r="17" fill="#F2B68C" opacity=".18"/>
+<text x="839" y="76" font-family="Arial, sans-serif" text-anchor="middle" font-size="12" font-weight="800" fill="#F2B68C">05</text>
+<text x="823" y="113" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#F0F5FF">OPTIMIZE</text>
+<text x="823" y="143" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">Speed, SEO</text>
+<text x="823" y="163" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">&amp; stability</text>
+<rect x="999" y="37" width="180" height="154" rx="13" fill="#192540" stroke="#3D506F"/>
+<circle cx="1033" cy="70" r="17" fill="#7DD3F6" opacity=".18"/>
+<text x="1033" y="76" font-family="Arial, sans-serif" text-anchor="middle" font-size="12" font-weight="800" fill="#7DD3F6">06</text>
+<text x="1017" y="113" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#F0F5FF">DELIVER</text>
+<text x="1017" y="143" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">Handoff, docs</text>
+<text x="1017" y="163" font-family="Arial, sans-serif" font-size="13.5" fill="#A9BED6">&amp; iteration</text>
+</svg>

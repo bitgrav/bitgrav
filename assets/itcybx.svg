@@ -8,7 +8,7 @@
 <text x="28" y="60" font-size="12.3" letter-spacing=".5" fill="#9EB4FF" font-weight="bold" font-family="Arial, sans-serif">WORDPRESS  /  MULTILINGUAL</text>
 <text x="28" y="117" font-size="28" letter-spacing="-.45" fill="#F1F5FE" font-weight="800" font-family="Arial, sans-serif">ITCYBX AGENCY</text>
 <text x="28" y="147" font-size="11" letter-spacing=".3" fill="#AFBED4" font-weight="bold" font-family="Arial, sans-serif">BILINGUAL DIGITAL AGENCY EXPERIENCE</text>
-<rect x="28" y="183" width="113" height="30" rx="15" fill="#9EB4FF" opacity=".13" stroke="#9EB4FF" stroke-opacity=".65"/>
-<text x="42" y="203" font-size="12" fill="#9EB4FF" font-weight="bold" font-family="Arial, sans-serif">VIEW PROJECT</text>
+<rect x="28" y="183" width="143" height="30" rx="15" fill="#9EB4FF" opacity=".13" stroke="#9EB4FF" stroke-opacity=".65"/>
+<text x="40" y="203" font-size="11" fill="#9EB4FF" font-weight="bold" font-family="Arial, sans-serif">VIEW PROJECT</text>
 <circle cx="443" cy="117" r="67" fill="#9EB4FF" opacity=".06" stroke="#9EB4FF" stroke-width="4"/><ellipse cx="443" cy="117" rx="28" ry="67" stroke="#D7A4FE" stroke-width="3" fill="none"/><path d="M377 117 H509 M390 83 H496 M390 151 H496" stroke="#9EB4FF" stroke-width="3" fill="none"/><circle cx="506" cy="75" r="10" fill="#9EB4FF"/>
 <path d="M123 191 H132 V200 M132 191 L120 203" stroke="#9EB4FF" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>

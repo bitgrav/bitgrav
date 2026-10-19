@@ -8,7 +8,7 @@
 <text x="28" y="60" font-size="12.3" letter-spacing=".5" fill="#FFD18C" font-weight="bold" font-family="Arial, sans-serif">WOOCOMMERCE  /  ECOMMERCE</text>
 <text x="28" y="117" font-size="28" letter-spacing="-.45" fill="#F1F5FE" font-weight="800" font-family="Arial, sans-serif">BELGIAN JEWELS</text>
 <text x="28" y="147" font-size="11" letter-spacing=".3" fill="#AFBED4" font-weight="bold" font-family="Arial, sans-serif">A REFINED ONLINE COMMERCE EXPERIENCE</text>
-<rect x="28" y="183" width="113" height="30" rx="15" fill="#FFD18C" opacity=".13" stroke="#FFD18C" stroke-opacity=".65"/>
-<text x="42" y="203" font-size="12" fill="#FFD18C" font-weight="bold" font-family="Arial, sans-serif">VIEW PROJECT</text>
+<rect x="28" y="183" width="143" height="30" rx="15" fill="#FFD18C" opacity=".13" stroke="#FFD18C" stroke-opacity=".65"/>
+<text x="40" y="203" font-size="11" fill="#FFD18C" font-weight="bold" font-family="Arial, sans-serif">VIEW PROJECT</text>
 <path d="M435 55 L488 90 L463 156 L389 156 L364 90 Z" fill="#FFD18C" fill-opacity=".12" stroke="#FFD18C" stroke-width="4"/><path d="M364 90 H488 M389 156 L411 90 L425 55 M463 156 L444 90 L425 55" stroke="#F5A3CC" stroke-width="3" fill="none"/><path d="M495 58 l9 16 16 9 -16 9 -9 16 -9 -16 -16 -9 16 -9 Z" fill="#FFD18C" opacity=".8"/>
 <path d="M123 191 H132 V200 M132 191 L120 203" stroke="#FFD18C" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>

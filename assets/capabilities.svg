@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="524" viewBox="0 0 1200 524" role="img" aria-label="Six areas of technical expertise: frontend, APIs, eCommerce, UI, performance and custom development">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0C1529"/><stop offset="1" stop-color="#111A32"/></linearGradient></defs>
+<rect width="1200" height="524" rx="18" fill="url(#g)" stroke="#3F5470"/>
+<rect x="28" y="32" width="1144" height="66" rx="11" fill="#17243F" stroke="#354967"/>
+<rect x="28" y="32" width="6" height="66" rx="3" fill="#60DCE8"/>
+<text x="59" y="73" font-family="Arial, sans-serif" font-weight="800" font-size="21" fill="#60DCE8">01</text>
+<text x="129" y="61" font-family="Arial, sans-serif" font-weight="800" font-size="20" fill="#F0F5FF">FRONTEND ENGINEERING</text>
+<text x="129" y="83" font-family="Arial, sans-serif" font-size="16" fill="#A7BCD6">React  •  TypeScript  •  Next.js</text>
+<circle cx="1112" cy="65" r="17" fill="#60DCE8" opacity=".13"/><path d="M1106 65 l4 4 9 -10" fill="none" stroke="#60DCE8" stroke-width="3.1" stroke-linecap="round"/><rect x="28" y="107" width="1144" height="66" rx="11" fill="#17243F" stroke="#354967"/>
+<rect x="28" y="107" width="6" height="66" rx="3" fill="#9B9BFF"/>
+<text x="59" y="148" font-family="Arial, sans-serif" font-weight="800" font-size="21" fill="#9B9BFF">02</text>
+<text x="129" y="136" font-family="Arial, sans-serif" font-weight="800" font-size="20" fill="#F0F5FF">APPLICATION STATE &amp; APIS</text>
+<text x="129" y="158" font-family="Arial, sans-serif" font-size="16" fill="#A7BCD6">Redux Toolkit  •  REST  •  GraphQL</text>
+<circle cx="1112" cy="140" r="17" fill="#9B9BFF" opacity=".13"/><path d="M1106 140 l4 4 9 -10" fill="none" stroke="#9B9BFF" stroke-width="3.1" stroke-linecap="round"/><rect x="28" y="182" width="1144" height="66" rx="11" fill="#17243F" stroke="#354967"/>
+<rect x="28" y="182" width="6" height="66" rx="3" fill="#7FE0BB"/>
+<text x="59" y="223" font-family="Arial, sans-serif" font-weight="800" font-size="21" fill="#7FE0BB">03</text>
+<text x="129" y="211" font-family="Arial, sans-serif" font-weight="800" font-size="20" fill="#F0F5FF">CMS &amp; ECOMMERCE</text>
+<text x="129" y="233" font-family="Arial, sans-serif" font-size="16" fill="#A7BCD6">WordPress  •  WooCommerce  •  Shopify</text>
+<circle cx="1112" cy="215" r="17" fill="#7FE0BB" opacity=".13"/><path d="M1106 215 l4 4 9 -10" fill="none" stroke="#7FE0BB" stroke-width="3.1" stroke-linecap="round"/><rect x="28" y="257" width="1144" height="66" rx="11" fill="#17243F" stroke="#354967"/>
+<rect x="28" y="257" width="6" height="66" rx="3" fill="#F6BB8A"/>
+<text x="59" y="298" font-family="Arial, sans-serif" font-weight="800" font-size="21" fill="#F6BB8A">04</text>
+<text x="129" y="286" font-family="Arial, sans-serif" font-weight="800" font-size="20" fill="#F0F5FF">MOTION &amp; EXPERIENCE</text>
+<text x="129" y="308" font-family="Arial, sans-serif" font-size="16" fill="#A7BCD6">GSAP  •  Figma  •  Responsive UI</text>
+<circle cx="1112" cy="290" r="17" fill="#F6BB8A" opacity=".13"/><path d="M1106 290 l4 4 9 -10" fill="none" stroke="#F6BB8A" stroke-width="3.1" stroke-linecap="round"/><rect x="28" y="332" width="1144" height="66" rx="11" fill="#17243F" stroke="#354967"/>
+<rect x="28" y="332" width="6" height="66" rx="3" fill="#7FB7FF"/>
+<text x="59" y="373" font-family="Arial, sans-serif" font-weight="800" font-size="21" fill="#7FB7FF">05</text>
+<text x="129" y="361" font-family="Arial, sans-serif" font-weight="800" font-size="20" fill="#F0F5FF">PERFORMANCE &amp; SEO</text>
+<text x="129" y="383" font-family="Arial, sans-serif" font-size="16" fill="#A7BCD6">Core Web Vitals  •  Technical SEO</text>
+<circle cx="1112" cy="365" r="17" fill="#7FB7FF" opacity=".13"/><path d="M1106 365 l4 4 9 -10" fill="none" stroke="#7FB7FF" stroke-width="3.1" stroke-linecap="round"/><rect x="28" y="407" width="1144" height="66" rx="11" fill="#17243F" stroke="#354967"/>
+<rect x="28" y="407" width="6" height="66" rx="3" fill="#D79DFA"/>
+<text x="59" y="448" font-family="Arial, sans-serif" font-weight="800" font-size="21" fill="#D79DFA">06</text>
+<text x="129" y="436" font-family="Arial, sans-serif" font-weight="800" font-size="20" fill="#F0F5FF">CUSTOM DEVELOPMENT</text>
+<text x="129" y="458" font-family="Arial, sans-serif" font-size="16" fill="#A7BCD6">PHP  •  Plugins  •  Integrations</text>
+<circle cx="1112" cy="440" r="17" fill="#D79DFA" opacity=".13"/><path d="M1106 440 l4 4 9 -10" fill="none" stroke="#D79DFA" stroke-width="3.1" stroke-linecap="round"/></svg>
